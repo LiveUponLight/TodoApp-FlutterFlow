@@ -496,6 +496,8 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                             .labelLarge
                                             .fontStyle,
                                       ),
+                                      color:
+                                          FlutterFlowTheme.of(context).tertiary,
                                       letterSpacing: 0.0,
                                       fontWeight: FlutterFlowTheme.of(context)
                                           .labelLarge
